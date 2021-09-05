@@ -1,6 +1,6 @@
 # GrabCON{wr1t3_up5}
 
-Algunos write up de desafíos de GrabCON2021 que completé
+Algunos write ups de desafíos de GrabCON2021 que completé
 
 ## Desafíos
 
