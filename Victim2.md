@@ -1,13 +1,7 @@
 # GrabCON{V1c71m_2} (200 pts)
 Categoría: OSINT
 ## Descripción
-We've managed to get into that place in Trentino-Alto Adige, but we saw a diary left behind in that place owned by him. Go throughing that diary we've got this photo. Locals said it was a sceneric view of a mountain from a hotel. Can you find the location of the hotel located near to this place?
-
-File (Una imagen) 
-
-GrabCON{hotelnameinlowercase}
-
-Author: CETACEAN
+![image](https://user-images.githubusercontent.com/66751764/132142836-022ea8b9-8498-4ae6-a6e9-4f7219e6c577.png)
 ## Solución
 
 Primero abrimos la imagen, la cual es la siguiente:
